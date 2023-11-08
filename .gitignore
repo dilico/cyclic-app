@@ -1,0 +1,6 @@
+/tmp
+.air.toml
+acmilanbot-cli
+config.dev.toml
+config.prod.toml
+requests.txt
